@@ -1,5 +1,5 @@
 # Description
-This is a graphics application that is run in web browser. The application was made using three.js framework and built during cs559 course
+This is a graphics application that runs in web browser. The application was made using three.js framework and built during cs559 course
 
 ## Running
 You need to run the website in the localhost to view it properly. I personally used [live server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) from visual studio code [visual studio code](https://code.visualstudio.com/)
