@@ -6,10 +6,10 @@ You need to run the website in the localhost to view it properly. I personally u
 
 ## Screenshots
 ### Overhead View
-<img src="https://github.com/Zerro97/GraphicsTown/tree/master/screenshots/image1" alt="Image1" height="350px" width="500px"/>
+<img src="https://github.com/Zerro97/GraphicsTown/blob/master/screenshots/image1.png" alt="Image1" height="350px" width="500px"/>
 
 ### Car's View 1
-<img src="https://github.com/Zerro97/GraphicsTown/tree/master/screenshots/image2" alt="Image2" height="350px" width="500px"/>
+<img src="https://github.com/Zerro97/GraphicsTown/blob/master/screenshots/image2.png" alt="Image2" height="350px" width="500px"/>
 
 ### Car's View 2
-<img src="https://github.com/Zerro97/GraphicsTown/tree/master/screenshots/image3" alt="Image3" height="350px" width="500px"/>
+<img src="https://github.com/Zerro97/GraphicsTown/blob/master/screenshots/image3.png" alt="Image3" height="350px" width="500px"/>
